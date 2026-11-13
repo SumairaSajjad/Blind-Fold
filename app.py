@@ -1,0 +1,1 @@
+print("NEW APP FOR BLIND PEOPLE: This application is designed to assist visually impaired individuals in navigating their environment and accessing information more easily. It includes features such as voice commands, text-to-speech functionality, and real-time object recognition. Our goal is to enhance accessibility and improve the quality of life for blind users.")
